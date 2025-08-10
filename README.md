@@ -26,7 +26,7 @@ Power BI dashboard showing Walmart sales trends, store performance, and the effe
 ---
 
 ## 📷 Preview
-![Dashboard Preview](Dashboard Walmart Sales.png)
+![Dashboard Preview]([Dashboard Preview](dashboard.png))
 
 ---
 
